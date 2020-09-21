@@ -3,28 +3,34 @@ Educational tasks and Homeworks for Java Back End Development group 📚
 
 ### 1. Introduction to JAVA
 1. Introduction to JAVA. JRE, JDK, JVM. Git basics.
-2. Data types.
-3. Operators.
-4. Conditional statements.
-5. Arrays.
-6. Loops.
-7. Methods.
+1. Data types.
+1. Operators.
+1. Conditional statements.
+1. Arrays.
+1. Loops.
+1. Methods.
+1. Package.
+1. Variable types.
+1. Static and final.
+1. Exceptions.
 
 ### 2. Object Oriented Programming
-10. Class. An object.
-11. Class Object. The main methods.
-12. Abstract classes, interfaces, enumerations. Packages.
-13. Access modifiers and variable types.
-14. Git opportunities for team development (Issue, Pull request,ect).
-15. Abstraction and encapsulation.
-16. Inheritance and polymorphism.
-17. Aggregation and composition.
-18. Types of classes. Nested, internal, internal static, anonymous classes
-19. Exceptional situations. Hierarchy of exceptions.
-20. Classes, Reflection.
-21. Generalized types.
-22. An Introduction to Design Patterns (Part 1). Creational: Builder, Singleton, Prototype, Factory method, Abstract factory. 
-23. Basics of class design. UML diagrams.
+1. Class and object.
+1. Access modifiers.
+1. Abstract class, interface, enumeration.
+1. Access modifiers.
+1. Abstraction.
+1. Encapsulation.
+1. Inheritance.
+1. Polymorphism
+1. Aggregation.
+1. Composition.
+1. Types of classes.
+1. Hierarchy of exceptions.
+1. Generrics.
+1. UML diagram.
+1. Annotation.
+1. Reflection.
 
 ### 3. Collections
 24. Types of collections. Collections interface. Collection hierarchy.
