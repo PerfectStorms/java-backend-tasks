@@ -2,7 +2,7 @@
 Educational tasks and Homeworks for Java Back End Development group 📚
 
 ### 1. Introduction to JAVA
-1. Introduction to JAVA. JRE, JDK, JVM. Git basics.
+1. JRE, JDK, JVM. Git basics.
 1. Data types.
 1. Operators.
 1. Conditional statements.
@@ -26,23 +26,18 @@ Educational tasks and Homeworks for Java Back End Development group 📚
 1. Aggregation.
 1. Composition.
 1. Types of classes.
-1. Hierarchy of exceptions.
+1. Exceptions hierarchy.
 1. Generrics.
 1. UML diagram.
 1. Annotation.
 1. Reflection.
 
 ### 3. Collections
-24. Types of collections. Collections interface. Collection hierarchy.
-25. List interface.
-26. Map interface.
-27. Set interface.
-28. Queue interface.
-29. Interfaces Comparable and Comparator.
-30. The principles of SOLID.
-31. Class Date, LocalDate, Calendar and different formatters.
-32. Immutable collections. Lymbds.
-33. Introduction to Design Patterns (Part 2). Structural: Adapter, Facade, Composite, Decorator, Proxy, Bridge, Flyweight.
+1. List.
+1. Set.
+1. Queue.
+1. Map.
+1. Comparable and Comparator.
 
 ### 4. JAVA IO and multithreading
 34. Input and output streams.
@@ -68,7 +63,19 @@ Educational tasks and Homeworks for Java Back End Development group 📚
 51. XML. JAXB Basics.
 52. Introduction to Design Patterns (Part 4). Antipatterns.
 
-### 6. Modern Stack
+### 6. WEB Basics
+1. XML.
+1. JSON.
+1. HTML
+1. HTTP.
+
+### 7. Spring Framework
+1. Spring Core.
+1. Dependency Injection.
+1. IoC Container.
+1. Beans.
+
+### 8. PostgreSQL
 53. Spring Framework. Spring Core Basics (Part 1).
 54. Spring Framework. Spring Core Basics (Part 2).
 55. Spring boot.
