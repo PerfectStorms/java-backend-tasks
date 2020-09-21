@@ -1,16 +1,14 @@
 # java-backend-tasks
 Educational tasks and Homeworks for Java Back End Development group 📚
 
-### 1. Fundamentals of Programming
-1. Programming languages. Introduction to JAVA. JRE, JDK, JVM. History.
-2. Git basics and team development.
-3. Data types. Primitive and reference. Variables
-4. Operators (arithmetic, bit, logical).
-5. Conditional statements (if-else, switch-case).
-6. Arrays (one-dimensional, two-dimensional).
-7. Loops (for, while, do while, foreach).
-8. Methods (overloading, recursion).
-9. Class String, StringBuilder, and StringBuffer.
+### 1. Introduction to JAVA
+1. Introduction to JAVA. JRE, JDK, JVM. Git basics.
+2. Data types.
+3. Operators.
+4. Conditional statements.
+5. Arrays.
+6. Loops.
+7. Methods.
 
 ### 2. Object Oriented Programming
 10. Class. An object.
